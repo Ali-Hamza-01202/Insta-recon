@@ -7,10 +7,8 @@ A powerful and simple Instagram recon tool that fetches public profile details u
 Install required packages:
 
 ```bash
-pip install -r requirements.txt
-Install insta_recon.py working methodology
-```bash
+git clone https://github.com/yourusername/kd-recon.git
+cd kd-recon
 chmod +x kd_recon.py
-Scanning a target by his/her username or link
-```bash
-python3 kd_recon.py user_name
+pip install -r requirements.txt
+python3 kd_recon.py sehraab
